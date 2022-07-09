@@ -1,1 +1,1 @@
-# 2022-Tox21-ER-NMDR
+# MatLab code to identify NMDR curves in Tox21 ER assays
