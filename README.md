@@ -4,7 +4,7 @@ For paper "Identification of nonmonotonic concentration-responses in Tox21 hight
 
 Purpose of files:
 - MatLab code to identify NMDR curves in Tox21 ER assays: Tox21_ER_Assay_NMDR_Identification.m
-- MatLab code to display a compound's concentration response curves in Tox21 ER assays: MatLab file to be uploaded
+- MatLab code to display a compound's concentration response curves in Tox21 ER assays: Plot_CRCs_in_Tox21_ER_Assays.m
 - Assay 1 data file: tox21-er-luc-bg1-4e2-agonist-p4.zip
 - Assay 2 data file: tox21-er-luc-bg1-4e2-agonist-p2.zip
 - Assay 3 data file: tox21-er-luc-bg1-4e2-antagonist-p2.zip
@@ -15,3 +15,4 @@ Purpose of files:
 - Assay 8 data file: tox21-erb-bla-antagonist-p1.zip
 - Luciferase inhibition assay data file: tox21-luc-biochem-p1.zip
 - Autofluorescence assay data file: tox21-spec-hek293-p1.zip
+- Tox21 10K-chemical library: Tox21_13127_Compounds_Library.csv
