@@ -15,4 +15,4 @@ Purpose of files:
 - Assay 8 data file: tox21-erb-bla-antagonist-p1.zip
 - Luciferase inhibition assay data file: tox21-luc-biochem-p1.zip
 - Autofluorescence assay data file: tox21-spec-hek293-p1.zip
-- Tox21 10K-chemical library: Tox21_13127_Compounds_Library.csv
+- Tox21 10K-chemical library: Tox21_13127_Compounds_Library.csv 
